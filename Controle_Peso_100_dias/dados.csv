@@ -25,4 +25,8 @@ Data,Peso,Imagem,AtividadeFisica,AlimentacaoTipo,AlimentacaoNivel,AlimentacaoCon
 2018-10-16,98.1,,'[{"Tipo":"Musculação", "Foco":"Pernas"}]','["Frutas", "Grãos", "Açucar"]',Alta,
 2018-10-17,97.6,,'[{"Tipo":"Musculação", "Foco":"Costas"},{"Tipo":"Corrida", "Distancia":1.2, "Velocidade":11.0}]','["Frutas", "Grãos", "Raízes"]',Moderada,No Sugar
 2018-10-18,96.2,,,'["Frutas", "Laticínios", "Farinários", "Grãos", "Raízes"]',Moderada,No Sugar
-2018-10-19,96.4,,'[{"Tipo":"Musculação", "Foco":"Frontal"},{"Tipo":"Corrida", "Distancia":1, "Velocidade":12.0}]','["Frutas", "Laticínios", "Farinários", "Grãos", "Raízes"]',Moderada,No Sugar
+2018-10-19,96.4,,'[{"Tipo":"Musculação", "Foco":"Frontal"},{"Tipo":"Corrida", "Distancia":1, "Velocidade":12.0}]','["Frutas", "Laticínios", "Farinários", "Grãos", "Proteína Animal", "Raízes"]',Alta,No Sugar
+2018-10-20,97.0,,,'["Frutas", "Grãos", "Farinários", "Proteína Animal"]',Alta,No Sugar
+2018-10-21,97.1,,'[{"Tipo":"Corrida", "Distancia":7.51, "Velocidade":10.24}]','["Frutas", "Grãos", "Farinários"]',Moderada,No Sugar
+2018-10-22,96.4,,'[{"Tipo":"Musculação", "Foco":"Pernas"},{"Tipo":"Corrida", "Distancia":2.0, "Velocidade":12.0}]','["Frutas", "Laticínios", "Grãos", "Farinários"]',Moderada,No Sugar
+2018-10-23,96.1,,'[{"Tipo":"Musculação", "Foco":"Frontal"}]','["Frutas", "Laticínios", "Grãos", "Farinários"]',Moderada,No Sugar
