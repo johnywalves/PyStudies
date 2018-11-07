@@ -106,7 +106,7 @@ plt.xlabel("Dias")
 plt.ylabel("Medida")
 plt.legend(['Evolução', 'Objetivo'])
 
-plt.savefig('evolution.png', dpi=300)
+plt.savefig('evolution.svg', dpi=300)
 plt.show()
 
 # ## Visualização da Tabela
