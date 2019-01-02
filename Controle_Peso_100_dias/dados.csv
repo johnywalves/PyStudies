@@ -28,5 +28,19 @@ Data,Peso,Imagem,AtividadeFisica,AlimentacaoTipo,AlimentacaoNivel,AlimentacaoCon
 2018-10-19,96.4,,'[{"Tipo":"Musculação", "Foco":"Frontal"},{"Tipo":"Corrida", "Distancia":1, "Velocidade":12.0}]','["Frutas", "Laticínios", "Farinários", "Grãos", "Proteína Animal", "Raízes"]',Alta,No Sugar
 2018-10-20,97.0,,,'["Frutas", "Grãos", "Farinários", "Proteína Animal"]',Alta,No Sugar
 2018-10-21,97.1,,'[{"Tipo":"Corrida", "Distancia":7.51, "Velocidade":10.24}]','["Frutas", "Grãos", "Farinários"]',Moderada,No Sugar
-2018-10-22,96.4,,'[{"Tipo":"Musculação", "Foco":"Pernas"},{"Tipo":"Corrida", "Distancia":2.0, "Velocidade":12.0}]','["Frutas", "Laticínios", "Grãos", "Farinários"]',Moderada,No Sugar
-2018-10-23,96.1,,'[{"Tipo":"Musculação", "Foco":"Frontal"}]','["Frutas", "Laticínios", "Grãos", "Farinários"]',Moderada,No Sugar
+2018-10-22,96.4,,'[{"Tipo":"Musculação", "Foco":"Pernas"},{"Tipo":"Corrida", "Distancia":2.0, "Velocidade":12.0}]','["Frutas", "Grãos", "Farinários", "Laticínios"]',Moderada,No Sugar
+2018-10-23,96.1,,'[{"Tipo":"Musculação", "Foco":"Frontal"},{"Tipo":"Corrida", "Distancia":2.15, "Velocidade":9.0},{"Tipo":"Funcional"}]','["Frutas", "Grãos", "Farinários", "Laticínios"]',Alta,No Sugar
+2018-10-24,96.0,,,'["Frutas", "Grãos", "Farinários", "Laticínios"]',Exagerada,
+2018-10-25,96.4,,'[{"Tipo":"Musculação", "Foco":"Costas"},{"Tipo":"Corrida", "Distancia":1, "Velocidade":10.0},{"Tipo":"Funcional"},{"Tipo":"Corrida", "Distancia":2.6, "Velocidade":10.4},{"Tipo":"Corrida", "Distancia":1.88, "Velocidade":9.66}]','["Frutas", "Grãos", "Farinários", "Laticínios", "Proteína Animal", "Legumes", "Açucar"]',Exagerada,
+2018-10-26,,,,'["Frutas", "Laticínios", "Açucar", "Proteína Animal"]',Alta,
+2018-10-27,,,'[{"Tipo":"Corrida", "Distancia":10.83, "Velocidade":11.47}]','["Frutas", "Laticínios", "Açucar", "Proteína Animal"]',Exagerada,
+2018-10-29,97.4,,,'["Frutas", "Laticínios", "Farinários", "Açucar", "Proteína Animal"]',Alta,
+2018-10-30,97.4,,'[{"Tipo":"Funcional"},{"Tipo":"Corrida", "Distancia":2.6, "Velocidade":10.0}]','["Laticínios", "Farinários", "Grãos"]',Baixa,
+2018-10-31,95.9,,,'["Laticínios", "Grãos", "Proteína Animal"]',Alta,
+2018-11-01,95.9,,,'["Laticínios", "Grãos", "Frutas"]',Baixa,
+2018-11-02,95.8,,'[{"Tipo":"Funcional"},{"Tipo":"Corrida", "Distancia":2.8, "Velocidade":11.2}]','["Laticínios", "Grãos", "Frutas"]',Moderada,
+2018-11-03,95.6,,,'["Laticínios", "Grãos", "Frutas", "Proteína Animal", "Açucar"]',Alta,
+2018-11-04,96.3,,,'["Laticínios", "Grãos", "Proteína Animal", "Açucar"]',Alta,
+2018-11-05,98.0,,,'["Laticínios", "Farinários", "Proteína Animal", "Grãos", "Açucar"]',Alta,
+2018-11-06,97.7,,'[{"Tipo":"Funcional"},{"Tipo":"Corrida", "Distancia":2.8, "Velocidade":11.2}]','["Laticínios", "Farinários", "Grãos", "Proteína Animal", "Açucar"]',Moderada,
+2018-11-07,96.0,,,'["Grãos", "Frutas"]',Moderada,
