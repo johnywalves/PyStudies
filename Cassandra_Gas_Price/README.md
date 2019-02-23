@@ -16,6 +16,9 @@ Realizar Download da base de dados
 
 **Cotação de Doláres**
 
+http://dados.gov.br/dataset/10813-taxa-de-cambio-livre-dolar-americano-compra
+
+http://api.bcb.gov.br/dados/serie/bcdata.sgs.10813/dados?formato=csv
 
 ## Cassandra
 

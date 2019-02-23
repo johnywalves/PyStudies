@@ -23,7 +23,7 @@ CREATE TABLE gas_price.vendas_valor (
     produto text,
     dt_coleta text,
     valor_venda float,
-    PRIMARY KEY ((bandeira, revenda), valor_venda, municipio, produto, dt_coleta)
+    PRIMARY KEY ((municipio, produto), valor_venda, bandeira, revenda, dt_coleta)
 ) WITH CLUSTERING ORDER BY (valor_venda ASC);
 
 CREATE TABLE gas_price.dolares_mes (
