@@ -4,14 +4,18 @@ O exercício prosposto pelo Professor Rodrigo Faccioli com uso de Jupyter Notebb
 
 ## Fonte de dados
 
-Realizar Download da base de dados 
-
 http://dados.gov.br/dataset/serie-historica-de-precos-de-combustiveis-por-revenda
 
-http://www.anp.gov.br/images/dadosabertos/precos/2016-2_CA.csv
-http://www.anp.gov.br/images/dadosabertos/precos/2017-1_CA.csv
-http://www.anp.gov.br/images/dadosabertos/precos/2017-2_CA.csv
-http://www.anp.gov.br/images/dadosabertos/precos/2018-1_CA.csv
+Realizar Download da base de dados 
+
+**Preços de Combustíveis**  
+[Segundo Semestre de 2016](http://www.anp.gov.br/images/dadosabertos/precos/2016-2_CA.csv)  
+[Primeiro Semestre de 2017](http://www.anp.gov.br/images/dadosabertos/precos/2017-1_CA.csv)  
+[Segundo Semestre de 2017](http://www.anp.gov.br/images/dadosabertos/precos/2017-2_CA.csv)  
+[Primeiro Semestre de 2018](http://www.anp.gov.br/images/dadosabertos/precos/2018-1_CA.csv)  
+
+**Cotação de Doláres**
+
 
 ## Cassandra
 
@@ -53,6 +57,13 @@ Executar
 ```shell
 jupyter lab --ip="0.0.0.0" --port=8888 --no-browser --allow-root
 ```
+
+Consultar dados do container
+
+```shell
+docker inspect <id container>
+```
+
 ## Erros 
 
 Para o erro `Connection error: ('Unable to connect to any servers'... Last error: Connection refused)}` ao chamar o **CQL Shell**, precisa liberar o acesso
