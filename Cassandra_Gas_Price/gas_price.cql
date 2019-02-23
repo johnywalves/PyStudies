@@ -30,14 +30,13 @@ CREATE TABLE gas_price.dolares_mes (
     ano int,    
     mes int,
     valor_compra float,
-    PRIMARY KEY (ano, mes)
+    PRIMARY KEY ((ano, mes))
 );
 
 CREATE TABLE gas_price.combustivel_mes (
     ano int,    
     mes int,
     produto text,
-    qtd int,
     valor_venda float,
     PRIMARY KEY (ano, mes, produto)
 );
