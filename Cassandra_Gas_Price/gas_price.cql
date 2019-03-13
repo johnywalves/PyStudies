@@ -38,6 +38,7 @@ CREATE TABLE gas_price.combustivel_mes (
     mes int,
     produto text,
     valor_venda float,
+	qtd int,
     PRIMARY KEY (ano, mes, produto)
 );
 
