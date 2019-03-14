@@ -34,16 +34,16 @@ CREATE TABLE gas_price.dolares_mes (
 );
 
 CREATE TABLE gas_price.combustivel_mes (
-    ano int,    
+    ano int,
     mes int,
     produto text,
     valor_venda float,
-	qtd int,
+    qtd int,
     PRIMARY KEY (ano, mes, produto)
 );
 
 CREATE TABLE gas_price.media_mes (
-    ano int,    
+    ano int,
     mes int,
     dolar float,
     diesel float,
@@ -51,6 +51,6 @@ CREATE TABLE gas_price.media_mes (
     etanol float,
     gasolina float,
     gnv float,
-    PRIMARY KEY (ano, mes)
+    PRIMARY KEY ((ano, mes))
 );
 
