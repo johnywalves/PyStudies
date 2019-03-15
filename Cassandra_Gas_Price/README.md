@@ -14,7 +14,7 @@ Realizar Download da base de dados
 [Segundo Semestre de 2017](http://www.anp.gov.br/images/dadosabertos/precos/2017-2_CA.csv)  
 [Primeiro Semestre de 2018](http://www.anp.gov.br/images/dadosabertos/precos/2018-1_CA.csv)  
 
-**Cotação de Doláres**
+**Cotação de Doláres**  
 [Cotações de Dólares](http://api.bcb.gov.br/dados/serie/bcdata.sgs.10813/dados?formato=csv)
 
 ## Cassandra
@@ -58,7 +58,7 @@ Executar
 jupyter lab --ip="0.0.0.0" --port=8888 --no-browser --allow-root
 ```
 
-Gráfico da Variação de Combustíveis
+Gráfico da Variação de Combustíveis  
 
 ![Gráfico da Variação de Combustíveis](evolution.svg)
 
