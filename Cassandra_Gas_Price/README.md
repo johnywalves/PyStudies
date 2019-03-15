@@ -4,7 +4,7 @@ O exercício prosposto pelo Professor Rodrigo Faccioli com uso de Jupyter Notebb
 
 ## Fonte de dados
 
-http://dados.gov.br/dataset/serie-historica-de-precos-de-combustiveis-por-revenda
+[Informações sobre a base valores de vendas de combustíveis](http://dados.gov.br/dataset/serie-historica-de-precos-de-combustiveis-por-revenda)
 
 Realizar Download da base de dados 
 
@@ -15,10 +15,7 @@ Realizar Download da base de dados
 [Primeiro Semestre de 2018](http://www.anp.gov.br/images/dadosabertos/precos/2018-1_CA.csv)  
 
 **Cotação de Doláres**
-
-http://dados.gov.br/dataset/10813-taxa-de-cambio-livre-dolar-americano-compra
-
-http://api.bcb.gov.br/dados/serie/bcdata.sgs.10813/dados?formato=csv
+[Cotações de Dólares](http://api.bcb.gov.br/dados/serie/bcdata.sgs.10813/dados?formato=csv)
 
 ## Cassandra
 
@@ -60,6 +57,12 @@ Executar
 ```shell
 jupyter lab --ip="0.0.0.0" --port=8888 --no-browser --allow-root
 ```
+
+Gráfico da Variação de Combustíveis
+
+![Gráfico da Variação de Combustíveis](evolution.svg)
+
+## Informações Extras
 
 Consultar dados do container
 
